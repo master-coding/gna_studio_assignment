@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    font-family: Ubuntu, 'sans-serif';
+}
+
+.bakery {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}

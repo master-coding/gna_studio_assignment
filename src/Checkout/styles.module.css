@@ -1,0 +1,83 @@
+.modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.show_modal {
+    background: white;
+}
+
+.checkout {
+    width: 500px;
+    border: 2px solid;
+    border-radius: 8px;
+    z-index: 1;
+}
+
+.header {
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    border-bottom: 2px solid black;
+}
+
+.footer {
+    border-top: 2px solid black;
+    display: flex;
+    justify-content: end;
+}
+
+.content {
+    padding: 8px;
+    font-size: 14px;;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.btn {
+    padding: 8px;
+    margin: 4px 16px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+}
+
+.proceed {
+    background: green;
+}
+
+.close {
+    background: rgb(202, 35, 35);
+}
+
+.del {
+    padding: 8px;
+    margin: 4px 16px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    background: rgb(202, 35, 35);
+    
+}
+
+.counter {
+    background-color: black;
+    color: white;
+    padding: 4px 8px;
+    margin: 4px;
+}
