@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/gna_studio_assignment/static/css/main.4d5484d5.css",
-    "main.js": "/gna_studio_assignment/static/js/main.03ff0528.js",
+    "main.css": "/gna_studio_assignment/static/css/main.639714ea.css",
+    "main.js": "/gna_studio_assignment/static/js/main.67cd8e13.js",
     "static/media/strawberry_pudding.jpg": "/gna_studio_assignment/static/media/strawberry_pudding.74547649335f43cbb918.jpg",
     "index.html": "/gna_studio_assignment/index.html",
-    "main.4d5484d5.css.map": "/gna_studio_assignment/static/css/main.4d5484d5.css.map",
-    "main.03ff0528.js.map": "/gna_studio_assignment/static/js/main.03ff0528.js.map"
+    "main.639714ea.css.map": "/gna_studio_assignment/static/css/main.639714ea.css.map",
+    "main.67cd8e13.js.map": "/gna_studio_assignment/static/js/main.67cd8e13.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d5484d5.css",
-    "static/js/main.03ff0528.js"
+    "static/css/main.639714ea.css",
+    "static/js/main.67cd8e13.js"
   ]
 }
